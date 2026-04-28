@@ -25,3 +25,5 @@ class CSVFile:
     def write(self, data):
         with open(self.filename, 'w') as file:
             file.write(data)
+
+print("t")

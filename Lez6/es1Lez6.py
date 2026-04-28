@@ -26,3 +26,4 @@ class CSVFile:
 # Test
 csv = CSVFile("data.csv")
 print(csv.get_data())
+print("t")
