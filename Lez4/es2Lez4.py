@@ -19,3 +19,4 @@ class CSVFile():
 shampoofile = CSVFile('dati/shampoo_sales.csv')
 lista_dati = shampoofile.get_data()
 print(lista_dati)
+print("t")
