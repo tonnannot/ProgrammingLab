@@ -75,4 +75,5 @@ print(conta_lettera("ciao", "a"))
 print(fattoriale(5))
 print(tipo_triangolo(3,3,3))
 print(conta_vocali("programmazione"))   
-#
+print("c")
+#commit
