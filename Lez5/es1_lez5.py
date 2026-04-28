@@ -21,3 +21,4 @@ can.intasca(42)
 
 print("can:", can)
 print("guro:", guro)
+print("t")
