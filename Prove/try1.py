@@ -328,4 +328,6 @@ class CSVTimeSeriesFile:
 
                 result.append([data_str, valore])
         return result
-    
+
+
+print("t")
