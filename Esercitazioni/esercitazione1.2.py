@@ -18,5 +18,6 @@ class MovingAverage:
 moving_average=MovingAverage(2)
 result = moving_average.compute([2, 4, 8, 16])
 print(result)
+print("t")
 
                         
