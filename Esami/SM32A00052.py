@@ -101,11 +101,11 @@ def compute_annual_mean(time_series, first_year, last_year):
     #ritorno finale, dizionario d_1 con anni e medie corrette.
     return d_1
 
-time_series_file = CSVTimeSeriesFile(name="electricity.csv")
+time_series_file = CSVTimeSeriesFile(name="C:\Git\ProgrammingLab\Esami\electricity.csv")
 time_series = time_series_file.get_data()
 #print(time_series)
 
-c=compute_annual_mean(time_series, 2019, 2021)
+c=compute_annual_mean(time_series, 2019, 2020)
 #d=compute_annual_mean(time_series, 2018, 2018)
 print(c)
 #print(d)
