@@ -26,4 +26,3 @@ class CSVFile:
         with open(self.filename, 'w') as file:
             file.write(data)
 
-print("t")
