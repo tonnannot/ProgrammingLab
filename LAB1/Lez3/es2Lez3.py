@@ -52,4 +52,3 @@ def rimuovi_duplicati(file_name):
                 visti.add(r)
 
 print(conta_parole(["ciao", "ciao", "test"]))  # {'ciao': 2, 'test': 1}
-print("t")

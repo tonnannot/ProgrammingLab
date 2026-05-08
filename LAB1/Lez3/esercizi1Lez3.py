@@ -31,3 +31,4 @@ print(is_palindromo("anna"))                        # True
 print(scambia([1,2,3], 0, 2))                       # [3,2,1]
 print(hanno_elemento_in_comune([1,2,3], [3,4,5]))   # True
 print(numeri_in_italiano([1,0,7,9,8]))              # ["uno","zero","sette","nove","otto"]
+#commit
