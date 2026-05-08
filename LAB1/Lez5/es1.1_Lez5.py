@@ -21,3 +21,4 @@ corsi = ["Programmazione", "Laboratorio", "Analisi", "Geometria"]
 
 obj_Irene = Studente("Irene", "Rossi", corsi)
 obj_Irene.saluta()        
+#commit

@@ -45,3 +45,4 @@ print(doc2.insegna_tutti(studente))  # False
 
 # Punto 2
 print(verifica_docenti_per_studente(studente, docenti))  # True
+#commit

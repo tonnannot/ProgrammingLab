@@ -57,3 +57,4 @@ print(p.descrizione())
 print(q.descrizione())
 print(r.descrizione(), "| Perimetro:", r.perimetro(), "| Area:", r.area())
 print(t.descrizione(), "| Perimetro:", t.perimetro(), "| Equilatero:", t.is_equilatero())
+#commit
