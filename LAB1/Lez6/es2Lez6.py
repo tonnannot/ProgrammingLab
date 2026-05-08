@@ -45,3 +45,4 @@ class NumericalCSVFile(CSVFile):
 # Test
 file = NumericalCSVFile("shampoo_sales.csv")
 print(file.get_data())
+#commit

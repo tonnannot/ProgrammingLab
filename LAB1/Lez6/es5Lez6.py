@@ -31,3 +31,4 @@ def calcola_eta_e_prossimo_compleanno(data_nascita_str):
 # Test
 data = input("Inserisci data di nascita (YYYY-MM-DD): ")
 calcola_eta_e_prossimo_compleanno(data)
+#commit
